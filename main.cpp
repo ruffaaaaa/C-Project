@@ -11,7 +11,7 @@ int main()
     string description, command, command2;
     int login_times = 3;
 
-        cout << "\t || WELCOME! || \t";
+        cout << "\t || WELCOME  ! || \t";
         cout << endl;
         cout << "|| REGISTER || LOGIN || LOGOUT ||"<<endl<<"Choose: ";
         getline(cin, command);
