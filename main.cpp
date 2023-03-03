@@ -21,7 +21,7 @@ int main()
           cout << " || REGISTRATION || "<<endl<<"--------------------"<<endl;
           cout <<"Username: ";
           getline(cin, username);
-          cout <<"Password: ";
+          cout <<"Password  : ";
           getline(cin,password);
           cout <<"Description: ";
           getline(cin,description);
